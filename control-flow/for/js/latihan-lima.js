@@ -13,6 +13,3 @@ function showNumber(number) {
 }
 
 showNumber(13);
-
-const date1 = new Date(2018, 5, 15, 06, 50, 00, 00);
-
